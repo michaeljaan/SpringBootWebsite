@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: rankingWeb
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nagasr
+Implementation-Vendor-Id: in.com.cg
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/rankingWeb
+Created-By: Maven Integration for Eclipse
+
